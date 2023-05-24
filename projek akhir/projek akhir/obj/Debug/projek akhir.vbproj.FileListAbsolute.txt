@@ -1,0 +1,97 @@
+C:\Users\cicia\source\repos\projek akhir\projek akhir\bin\Debug\projek akhir.exe.config
+C:\Users\cicia\source\repos\projek akhir\projek akhir\bin\Debug\projek akhir.exe
+C:\Users\cicia\source\repos\projek akhir\projek akhir\bin\Debug\projek akhir.pdb
+C:\Users\cicia\source\repos\projek akhir\projek akhir\bin\Debug\projek akhir.xml
+C:\Users\cicia\source\repos\projek akhir\projek akhir\bin\Debug\Guna.UI2.dll
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.AssemblyReference.cache
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek_akhir.Resources.resources
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.GenerateResource.cache
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.CoreCompileInputs.cache
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.CopyComplete
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek akhir.exe
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek akhir.xml
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek akhir.pdb
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek_akhir.Landing.resources
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek_akhir.Login.resources
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek_akhir.Register.resources
+C:\Users\cicia\source\repos\projek akhir\projek akhir\bin\Debug\mysql.data.dll
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek_akhir.Admin.resources
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek_akhir.UserCart.resources
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek_akhir.User.resources
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek_akhir.UserHistory.resources
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek_akhir.UserHome.resources
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek_akhir.AdminDataPenjualan.resources
+C:\Users\cicia\source\repos\projek akhir\projek akhir\obj\Debug\projek_akhir.AdminManajemen.resources
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\bin\Debug\projek akhir.exe.config
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\bin\Debug\projek akhir.exe
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\bin\Debug\projek akhir.pdb
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\bin\Debug\projek akhir.xml
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\bin\Debug\Guna.UI2.dll
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.AssemblyReference.cache
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.SuggestedBindingRedirects.cache
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek_akhir.Admin.resources
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek_akhir.AdminDataPenjualan.resources
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek_akhir.UserCart.resources
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek_akhir.Landing.resources
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek_akhir.Login.resources
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek_akhir.Resources.resources
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek_akhir.Register.resources
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek_akhir.User.resources
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek_akhir.UserHistory.resources
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek_akhir.UserHome.resources
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek_akhir.AdminManajemen.resources
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.GenerateResource.cache
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.CoreCompileInputs.cache
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.CopyComplete
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek akhir.exe
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek akhir.xml
+D:\Users\Lenovo\Documents\File Kuliah\semester 4\11. Praktikum Pemo Visual\projek akhir\projek akhir\obj\Debug\projek akhir.pdb
+C:\Users\Aang\Downloads\projek akhir\projek akhir\bin\Debug\projek akhir.exe.config
+C:\Users\Aang\Downloads\projek akhir\projek akhir\bin\Debug\projek akhir.exe
+C:\Users\Aang\Downloads\projek akhir\projek akhir\bin\Debug\projek akhir.pdb
+C:\Users\Aang\Downloads\projek akhir\projek akhir\bin\Debug\projek akhir.xml
+C:\Users\Aang\Downloads\projek akhir\projek akhir\bin\Debug\Guna.UI2.dll
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.AssemblyReference.cache
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.Admin.resources
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.AdminDataPenjualan.resources
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.UserCart.resources
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.Landing.resources
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.Login.resources
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.Resources.resources
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.Register.resources
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.User.resources
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.UserHistory.resources
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.UserHome.resources
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.AdminManajemen.resources
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.GenerateResource.cache
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.CoreCompileInputs.cache
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.CopyComplete
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek akhir.exe
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek akhir.xml
+C:\Users\Aang\Downloads\projek akhir\projek akhir\obj\Debug\projek akhir.pdb
+C:\Users\cicia\Downloads\projek akhir\projek akhir\bin\Debug\projek akhir.exe.config
+C:\Users\cicia\Downloads\projek akhir\projek akhir\bin\Debug\projek akhir.exe
+C:\Users\cicia\Downloads\projek akhir\projek akhir\bin\Debug\projek akhir.pdb
+C:\Users\cicia\Downloads\projek akhir\projek akhir\bin\Debug\projek akhir.xml
+C:\Users\cicia\Downloads\projek akhir\projek akhir\bin\Debug\Guna.UI2.dll
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.AssemblyReference.cache
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.Admin.resources
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.AdminDataPenjualan.resources
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.UserCart.resources
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.Landing.resources
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.Login.resources
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.Resources.resources
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.Register.resources
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.User.resources
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.UserHistory.resources
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.UserHome.resources
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.AdminManajemen.resources
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.GenerateResource.cache
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.CoreCompileInputs.cache
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek akhir.vbproj.CopyComplete
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek akhir.exe
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek akhir.xml
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek akhir.pdb
+C:\Users\cicia\Downloads\projek akhir\projek akhir\obj\Debug\projek_akhir.UserStruk.resources
